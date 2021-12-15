@@ -12,16 +12,9 @@ So, we want to propose a methodology with the help of which, we could see reduct
 
 Kaggle dataset - kaggle datasets download -d paultimothymooney/breast-histopathology-images
 
-Evaluation of the model: 
-Metrics used to evaluate - precision, recall, f1-score and support'
 
-Plot of learning curves
-![Capture](https://user-images.githubusercontent.com/54002608/146189479-878f02bc-b6cf-47fc-91ad-afa482d15ce3.JPG)
-![2](https://user-images.githubusercontent.com/54002608/146189638-3c51c4dd-25f6-4104-afbb-37487dd3a62c.JPG)
+Metrics used to evaluate - precision, recall, f1-score and support
 
-
-Confusion matrix 
-![1](https://user-images.githubusercontent.com/54002608/146189663-bd391567-ea9d-4d01-8ad8-afeceaecdb00.JPG)
 
 In this experiment, we found that Convolutional Neural Network has an accuracy of 86.11% which is certainly better than Artificial Neural Network with accuracy 80%.
 The two images that we used as test cases to predict from the dataset only were predicted accurately by the model. Our final Convolutional neural network model 
